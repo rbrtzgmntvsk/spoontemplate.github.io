@@ -1,0 +1,35 @@
+<svg id="Icons_check-circle" data-name="Icons/check-circle" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 57.023 52">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: rgba(0,0,0,0);
+      }
+
+      .cls-2 {
+        fill: #aee7fd;
+      }
+
+      .cls-3, .cls-4 {
+        fill: none;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-miterlimit: 10;
+        stroke-width: 3px;
+      }
+
+      .cls-3 {
+        stroke: #3f3379;
+      }
+
+      .cls-4 {
+        stroke: #4aa7ca;
+      }
+    </style>
+  </defs>
+  <rect id="Icons_check-circle_background" data-name="Icons/check-circle background" class="cls-1" width="50.424" height="52"/>
+  <g id="Icons_check-circle-2" data-name="Icons/check-circle" transform="translate(9.75 2)">
+    <circle id="Oval" class="cls-2" cx="20.485" cy="20.485" r="20.485" transform="translate(6.303)"/>
+    <path id="Path" class="cls-3" d="M40.97,18.612V20.5A20.485,20.485,0,1,1,28.822,1.774" transform="translate(0 1.576)"/>
+    <path id="Path-2" data-name="Path" class="cls-4" d="M26.4,0,6.093,20.03,0,14.027" transform="translate(14.567 6.128)"/>
+  </g>
+</svg>

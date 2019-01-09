@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 53.871 53.348">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: rgba(0,0,0,0);
+      }
+
+      .cls-2 {
+        fill: #aee7fd;
+      }
+
+      .cls-3, .cls-4 {
+        fill: none;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-miterlimit: 10;
+        stroke-width: 3px;
+      }
+
+      .cls-3 {
+        stroke: #3f3379;
+      }
+
+      .cls-4 {
+        stroke: #4aa7ca;
+      }
+    </style>
+  </defs>
+  <g id="Icons_check-circle" data-name="Icons/check-circle" transform="translate(0 -0.576)">
+    <rect id="Icons_check-circle_background" data-name="Icons/check-circle background" class="cls-1" width="52" height="50.424" transform="translate(0 0.576)"/>
+    <g id="shield" transform="translate(9.75 2)">
+      <path id="Path" class="cls-2" d="M18.909,47.273s18.909-9.455,18.909-23.636V7.091L18.909,0,0,7.091V23.636C0,37.818,18.909,47.273,18.909,47.273Z" transform="translate(6.303)"/>
+      <path id="Path-2" data-name="Path" class="cls-3" d="M18.909,47.273s18.909-9.455,18.909-23.636V7.091L18.909,0,0,7.091V23.636C0,37.818,18.909,47.273,18.909,47.273Z" transform="translate(0 3.152)"/>
+      <path id="Path-3" data-name="Path" class="cls-4" d="M18.646,0,4.3,14.247,0,9.978" transform="translate(8.864 19.402)"/>
+    </g>
+  </g>
+</svg>
